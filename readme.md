@@ -1,6 +1,6 @@
 
 # Description
-A javascript and html program that uses three js to make three globes revolve around one spinning globe.
+A javascript and html script that uses three.js to make three spinning globes revolve around one spinning globe.
 
 github page link: https://nilabjasanyal.github.io/globe-revolution/
 
